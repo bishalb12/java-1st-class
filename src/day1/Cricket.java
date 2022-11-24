@@ -12,4 +12,10 @@ public class Cricket {
     //century
     //winner
 }
+//behaviour
 
+//feedback
+//opinion polls
+//quiz Q/A
+//claim the prize
+//ticket purchase
