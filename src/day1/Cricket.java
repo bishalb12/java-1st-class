@@ -2,15 +2,15 @@ package day1;
 
 public class Cricket {
     //states
-    //team
-    //most wicket
-    // most run
-    //target
-    //man of the match
-    //best economy
-    //extra run
-    //century
-    //winner
+    //team (string)
+    //most wicket (int)
+    // most run (int)
+    //target (int)
+    //man of the match (string)
+    //best economy (float)
+    //extra run (int)
+    //century (int)
+    //winner (string)
 }
 //behaviour
 
